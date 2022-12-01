@@ -7,7 +7,7 @@ Job:
     - vacancy 
     - salary
     - category
-    - experience 
+    - experience  
     - gender
     
     - apply job
